@@ -1,0 +1,4 @@
+
+*Open freight_rate_ml.ipynb and run (Run All) everything from top to bottom.
+*All the necessary files, datasets, outputs are all connected to GitHub repository.
+*Open Freight_Rate_Assessment_Report for the walkthrough covering everything from EDA to Model reasoning.
